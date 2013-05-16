@@ -1,5 +1,7 @@
 # jQuery Prettify
 
+[![Build Status](https://travis-ci.org/jewelsjacobs/jquery.prettify.png)](https://travis-ci.org/jewelsjacobs/jquery.prettify)
+
 Jquery plugin to print an associative array / object in the browser
 
 ## Getting Started
@@ -13,14 +15,6 @@ In your web page:
 ```html
 <script src="jquery.js"></script>
 <script src="dist/jquery.prettify.min.js"></script>
-```
-
-## Documentation
-In your web page:
-
-```html
-<script src="jquery.js"></script>
-<script src="dist/jquery.simpleCenter.min.js"></script>
 ```
 
 ## Documentation
