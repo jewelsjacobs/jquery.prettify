@@ -31,7 +31,7 @@
         } else {
             el.append($('<pre />').html(json));
         }
-    }
+    };
 
     function syntaxHighlight (json) {
         json = json.replace (/&/g, '&amp;').replace (/</g, '&lt;').replace (/>/g, '&gt;');

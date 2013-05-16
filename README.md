@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/jewelsjacobs/jquery.prettify.png)](https://travis-ci.org/jewelsjacobs/jquery.prettify)
 
-Jquery plugin to print an associative array / object in the browser
+jQuery plugin to print an associative array / object in the browser
 
 ## Getting Started
 Download the [production version][min] or the [development version][max].
